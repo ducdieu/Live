@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://live.hkdvb.com/epg/full.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="{TVB}    無綫電視", {TVB}    無綫電視
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=614388635729168
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
@@ -40,7 +39,6 @@ https://astro.ttvb.eu.org/stream/astro/3220s6lw/master.m3u8?u=yang&p=20f645c7039
 https://astro.ttvb.eu.org/stream/astro/qzpnbg1y/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 #EXTINF:-1,tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/celestial-classic-movies.png" group-title="ASTRO", 天映经典频道
 https://astro.ttvb.eu.org/stream/astro/iejgl7gb/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-#EXTINF:-1 group-title="{HOY} 奇妙電視", {HOY} 奇妙電視
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 https://live.hkdvb.com/hls/live/77.m3u8?token=614388635729168
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://live.hkdvb.com/static/logos/78.png" group-title="{HOY} 奇妙電視", HOY TV 資訊台[直播]
@@ -62,7 +60,6 @@ https://live.hkdvb.com/hls/live/621.m3u8?token=614388635729168
 https://live.hkdvb.com/hls/live/630.m3u8?token=614388635729168
 #EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="{NowTV} Now Player", Now Sports 632[直播]
 https://live.hkdvb.com/hls/live/632.m3u8?token=614388635729168
-#EXTINF:-1 group-title="{RTHK} 香港電台", {RTHK} 香港電台
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://live.hkdvb.com/static/logos/31.png" group-title="{RTHK} 香港電台", 港台電視 31[直播]
 https://live.hkdvb.com/hls/live/31.m3u8?token=614388635729168
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://live.hkdvb.com/static/logos/32.png" group-title="{RTHK} 香港電台", 港台電視 32[直播]
