@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://live.hkdvb.com/epg/full.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=521082489875980
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
@@ -67,12 +68,20 @@ https://live.hkdvb.com/hls/live/34.m3u8?token=521082489875980
 https://live.hkdvb.com/hls/live/35.m3u8?token=521082489875980
 #EXTINF:-1 tvg-id="36" tvg-name="RTHK36" tvg-logo="https://live.hkdvb.com/static/logos/36.png" group-title="{RTHK} 香港電台", RTHK36[直播]
 https://live.hkdvb.com/hls/live/36.m3u8?token=521082489875980
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广州频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-#EXTINF:-1,tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/aoshiaomen.png" group-title="澳门频道",澳视澳门
-http://202.168.187.221:4001/udp/239.12.22.76:10001
-#EXTINF:-1,tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ANIMAX.png" group-title="数字频道",ANIMAX
-http://qwe.iptviptv.site:9694/hls/903/index.m3u8
+#EXTINF:-1 tvg-name="广州综合频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广州频道",广州综合频道
+https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659e24f2&txSecret=ad6341c1ce52ff3fc7100a546b93bc28
+#EXTINF:-1 tvg-name="广州影视频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广州频道",广州影视频道
+https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=659e254d&txSecret=2254bb435726decf9ff22dc9991d4ba6
+#EXTINF:-1 tvg-name="广州新闻频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广州频道",广州新闻频道
+https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659e2553&txSecret=89ff7733bad04e987230cf964bef70a0
+#EXTINF:-1 tvg-name="广州竞赛频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-jingsai.png" group-title="广州频道",广州竞赛频道
+https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&txSecret=067c1cd334fe2f8773d9452993e86c78
+#EXTINF:-1 tvg-name="广州法治频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广州频道",广州法治频道
+https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=659e2560&txSecret=2d04c3b5b43dc839c820f46e3c1480af
+#EXTINF:-1 tvg-name="广州南国都市频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广州频道",广州南国都市频道
+https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=659e2566&txSecret=d8eb99df0e0231bd050d3e0471d9fb01
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
