@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=521082489875980
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
@@ -68,7 +67,7 @@ https://live.hkdvb.com/hls/live/33.m3u8?token=521082489875980
 https://live.hkdvb.com/hls/live/34.m3u8?token=521082489875980
 #EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{RTHK} 香港電台", CGTN English[直播]
 https://live.hkdvb.com/hls/live/35.m3u8?token=521082489875980
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广州频道",大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 tvg-name="广州综合频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广州频道",广州综合频道
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659e24f2&txSecret=ad6341c1ce52ff3fc7100a546b93bc28
