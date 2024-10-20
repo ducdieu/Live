@@ -46,6 +46,8 @@ https://live.hkdvb.com/hls/live/76.m3u8?token=612648106861045
 https://live.hkdvb.com/hls/live/99.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkdvb.com/static/logos/96.png" group-title="{NowTV} Now Player", ViuTV Six[直播]
 https://live.hkdvb.com/hls/live/96.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{NowTV} Now Player", Now Popcorn 爆谷台[直播]
+https://live.hkdvb.com/hls/live/133.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
 https://live.hkdvb.com/hls/live/138.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="{NowTV} Now Player", Now NEWS 新聞台[直播]
@@ -66,8 +68,6 @@ https://live.hkdvb.com/hls/live/33.m3u8?token=612648106861045
 https://live.hkdvb.com/hls/live/34.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{RTHK} 香港電台", CGTN English[直播]
 https://live.hkdvb.com/hls/live/35.m3u8?token=612648106861045
-#EXTINF:-1 tvg-id="36" tvg-name="RTHK36" tvg-logo="https://live.hkdvb.com/static/logos/36.png" group-title="{RTHK} 香港電台", RTHK36[直播]
-https://live.hkdvb.com/hls/live/36.m3u8?token=612648106861045
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广州频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 tvg-name="广州综合频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广州频道",广州综合频道
