@@ -247,5 +247,3 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1,tvg-name="CNR 香港之声" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CNR_HK_Radio.png" group-title="广播频道",CNR 香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXT-X-PLAYLIST-TYPE:VOD
-https://vod.hkdvb.com/playlist.m3u?token=612648106861045
