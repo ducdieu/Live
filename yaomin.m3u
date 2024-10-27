@@ -2,59 +2,47 @@
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB} 無綫電視", TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB} 無綫電視", TVB PLUS[直播]
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB} 無綫電視", TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB} 無綫電視", TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB} 無綫電視", TVB PLUS[直播]
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB} 無綫電視", News 新聞台[直播]
 https://live.hkdvb.com/hls/live/83.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB} 無綫電視", News 新聞台[直播]
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB} 無綫電視", News 新聞台[直播]
 https://live.hkdvb.com/hls/live/83.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB} 無綫電視", News 新聞台[直播]
 https://live.hkdvb.com/hls/live/83.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB} 無綫電視", News 新聞台[直播]
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="{TVB} 無綫電視", 鳳凰香港台[直播]
 https://live.hkdvb.com/hls/live/85.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="{TVB} 無綫電視", 鳳凰香港台[直播]
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="{TVB} 無綫電視", 鳳凰香港台[直播]
 https://live.hkdvb.com/hls/live/85.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="{TVB} 無綫電視", 鳳凰香港台[直播]
 https://live.hkdvb.com/hls/live/85.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="{TVB} 無綫電視", 鳳凰香港台[直播]
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB} 無綫電視", 翡翠4K[直播]
-https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045
-#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB} 無綫電視", 翡翠4K[直播]
-https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB} 無綫電視", 翡翠4K[直播]
-https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-id="801" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="{TVB} 無綫電視", Popc[直播]
 https://live.hkdvb.com/hls/live/801.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="801" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="{TVB} 無綫電視", Popc[直播]
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="{TVB} 無綫電視", Popc[直播]
 https://live.hkdvb.com/hls/live/801.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="801" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="{TVB} 無綫電視", Popc[直播]
 https://live.hkdvb.com/hls/live/801.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="801" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="{TVB} 無綫電視", Popc[直播]
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="802" tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="{TVB} 無綫電視", 美亞[直播]
 https://live.hkdvb.com/hls/live/802.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="802" tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="{TVB} 無綫電視", 美亞[直播]
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="802" tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="{TVB} 無綫電視", 美亞[直播]
 https://live.hkdvb.com/hls/live/802.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="802" tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="{TVB} 無綫電視", 美亞[直播]
@@ -71,6 +59,20 @@ https://live.hkdvb.com/hls/live/804.m3u8?token=612648106861045
 https://live.hkdvb.com/hls/live/804.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="804" tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="{TVB} 無綫電視", 粵語片台[直播]
 https://live.hkdvb.com/hls/live/804.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
+#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB} 無綫電視", 翡翠4K[直播]
+https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB} 無綫電視", 翡翠4K[直播]
+https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB} 無綫電視", 翡翠4K[直播]
+https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
+https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
+https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
+https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-name="娛樂新聞台(HK)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER", 娛樂新聞台(HK)
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER",亞洲劇台
@@ -81,16 +83,12 @@ http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tvnMovie.png" group-title="myTVSUPER",tvN Movie
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Rock_Action.png" group-title="myTVSUPER", ROCK Action
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER",28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1,tvg-name="Astro 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="ASTRO", Astro 翡翠台
-https://astro.ttvb.eu.org/stream/astro/11ua4ver/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-#EXTINF:-1,tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="ASTRO", 娱乐新闻台
-https://astro.ttvb.eu.org/stream/astro/4cfg3zhu/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-#EXTINF:-1,tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="ASTRO", 千禧经典台
-https://astro.ttvb.eu.org/stream/astro/3220s6lw/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 #EXTINF:-1,tvg-name="天映新加坡" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/celestial-movies.png" group-title="ASTRO", 天映新加坡
 https://astro.ttvb.eu.org/stream/astro/qzpnbg1y/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 #EXTINF:-1,tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/celestial-classic-movies.png" group-title="ASTRO", 天映经典频道
@@ -201,18 +199,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
-#EXTINF:-1 tvg-name="广州综合频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广州频道",广州综合频道
-https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659e24f2&txSecret=ad6341c1ce52ff3fc7100a546b93bc28
-#EXTINF:-1 tvg-name="广州影视频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广州频道",广州影视频道
-https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=659e254d&txSecret=2254bb435726decf9ff22dc9991d4ba6
-#EXTINF:-1 tvg-name="广州新闻频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广州频道",广州新闻频道
-https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659e2553&txSecret=89ff7733bad04e987230cf964bef70a0
-#EXTINF:-1 tvg-name="广州竞赛频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-jingsai.png" group-title="广州频道",广州竞赛频道
-https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&txSecret=067c1cd334fe2f8773d9452993e86c78
-#EXTINF:-1 tvg-name="广州法治频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广州频道",广州法治频道
-https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=659e2560&txSecret=2d04c3b5b43dc839c820f46e3c1480af
-#EXTINF:-1 tvg-name="广州南国都市频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广州频道",广州南国都市频道
-https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=659e2566&txSecret=d8eb99df0e0231bd050d3e0471d9fb01
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
