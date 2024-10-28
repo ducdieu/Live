@@ -85,6 +85,8 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Rock_Action.png" group-title="myTVSUPER", ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="myTVSUPER", TVB 星河台
+http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER",28 AI 智慧賽馬
@@ -131,6 +133,8 @@ https://live.hkdvb.com/hls/live/133.m3u8?token=614388635729168&edge=live.tvfree.
 https://live.hkdvb.com/hls/live/133.m3u8?token=614388635729168&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
 https://live.hkdvb.com/hls/live/138.m3u8?token=614388635729168
+#EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
+http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
 https://live.hkdvb.com/hls/live/138.m3u8?token=614388635729168&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
