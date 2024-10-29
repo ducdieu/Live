@@ -17,10 +17,6 @@ http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER",28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1,tvg-name="天映新加坡" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/celestial-movies.png" group-title="ASTRO", 天映新加坡
-https://astro.ttvb.eu.org/stream/astro/qzpnbg1y/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-#EXTINF:-1,tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/celestial-classic-movies.png" group-title="ASTRO", 天映经典频道
-https://astro.ttvb.eu.org/stream/astro/iejgl7gb/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
