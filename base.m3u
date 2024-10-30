@@ -56,7 +56,7 @@ http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 #EXTINF:19 group-title="AKTV" tvg-id="aktv/null-13" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" provider-type="iptv", 日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 
-#EXTINF:20 group-title="AKTV" tvg-id="aktv/null-19" tvg-logo="https://live.hkdvb.com/static/logos/84.png" provider-type="iptv", 明珠剧集台(北美)
+#EXTINF:20 group-title="AKTV" tvg-id="aktv/null-19" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Pearl_Drama.png" provider-type="iptv", 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB} 無綫電視", Pearl 明珠台[直播]
@@ -71,7 +71,7 @@ http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="美亞電影台" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="{TVB} 無綫電視", 美亞電影台[直播]
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
-#EXTINF:25 group-title="AKTV" tvg-id="aktv/null-18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠剧集台(北美)
+#EXTINF:25 group-title="AKTV" tvg-id="aktv/null-18" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-Drama_US.png" provider-type="iptv", 翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
