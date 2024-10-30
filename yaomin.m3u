@@ -18,13 +18,7 @@ http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER",28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB} 無綫電視", Jade 翡翠台[直播]
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$快
-https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045
-https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge1.hkdvb.com
-https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge2.hkdvb.com
-https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge3.hkdvb.com
-https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=live.tvfree.sbs
-https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$AKTV#https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045$HKDVB#https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge1.hkdvb.com#https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge2.hkdvb.com#https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge3.hkdvb.com#https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=live.tvfree.sbs#https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB} 無綫電視", TVB PLUS[直播]
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB} 無綫電視", TVB PLUS[直播]
