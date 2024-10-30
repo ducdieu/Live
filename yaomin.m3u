@@ -295,29 +295,29 @@ https://live.hkdvb.com/hls/live/632.m3u8?token=612648106861045&edge=edge3.hkdvb.
 https://live.hkdvb.com/hls/live/632.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="{NowTV} Now Player", Now Sports 632[直播]
 https://live.hkdvb.com/hls/live/632.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
+#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
 https://live.hkdvb.com/hls/live/641.m3u8?token=612648106861045
-EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
+#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
 https://live.hkdvb.com/hls/live/641.m3u8?token=612648106861045&edge=edge1.hkdvb.com
-EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
+#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
 https://live.hkdvb.com/hls/live/641.m3u8?token=612648106861045&edge=edge2.hkdvb.com
-EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
+#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
 https://live.hkdvb.com/hls/live/641.m3u8?token=612648106861045&edge=edge3.hkdvb.com
-EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
+#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
 https://live.hkdvb.com/hls/live/641.m3u8?token=612648106861045&edge=live.tvfree.sbs
-EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
+#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch641.png" group-title="{NowTV} Now Player", Now Sports 641[直播]
 https://live.hkdvb.com/hls/live/641.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{NowTV} Now Player", Now 642[直播]
+#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch642_nba_tv.png" group-title="{NowTV} Now Player", Now 642[直播]
 https://live.hkdvb.com/hls/live/642.m3u8?token=612648106861045
-#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{NowTV} Now Player", Now 642[直播]
+#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch642_nba_tv.png" group-title="{NowTV} Now Player", Now 642[直播]
 https://live.hkdvb.com/hls/live/642.m3u8?token=612648106861045&edge=edge1.hkdvb.com
-#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{NowTV} Now Player", Now 642[直播]
+#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch642_nba_tv.png" group-title="{NowTV} Now Player", Now 642[直播]
 https://live.hkdvb.com/hls/live/642.m3u8?token=612648106861045&edge=edge2.hkdvb.com
-#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{NowTV} Now Player", Now 642[直播]
+#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch642_nba_tv.png" group-title="{NowTV} Now Player", Now 642[直播]
 https://live.hkdvb.com/hls/live/642.m3u8?token=612648106861045&edge=edge3.hkdvb.com
-#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{NowTV} Now Player", Now 642[直播]
+#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch642_nba_tv.png" group-title="{NowTV} Now Player", Now 642[直播]
 https://live.hkdvb.com/hls/live/642.m3u8?token=612648106861045&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{NowTV} Now Player", Now 642[直播]
+#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch642_nba_tv.png" group-title="{NowTV} Now Player", Now 642[直播]
 https://live.hkdvb.com/hls/live/642.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://live.hkdvb.com/static/logos/31.png" group-title="{RTHK} 香港電台", 港台電視 31[直播]
 https://live.hkdvb.com/hls/live/31.m3u8?token=612648106861045
