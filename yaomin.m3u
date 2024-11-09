@@ -1,44 +1,9 @@
 #EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml,https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss},https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml,https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 tvg-id="91" tvg-name="娛樂新聞台(HK)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER", 娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER",亞洲劇台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="myTVSUPER",千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-id="205" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Rock_Action.png" group-title="myTVSUPER", ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="505" tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tvN.png" group-title="myTVSUPER",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="504" tvg-name="Animax-HK" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Animax-HK.png" group-title="myTVSUPER", Animax-HK
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/c" tvg-name="C+台" tvg-logo="" group-title="UTV", C+台
-http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="KIX" tvg-logo="" group-title="myTVSUPER", KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="706" tvg-name="DW" tvg-logo="" group-title="myTVSUPER", DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="705" tvg-name="France 24" tvg-logo="" group-title="myTVSUPER", France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-id="402" tvg-name="Love Nature HD" tvg-logo="" group-title="myTVSUPER", Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-id="707" tvg-name="NHK World-Japan" tvg-logo="" group-title="myTVSUPER", NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="Nick Jr" tvg-logo="" group-title="myTVSUPER", Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="610" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER", 鳳凰衛視中文台
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="611" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER", 鳳凰衛視資訊台
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER", Jade 翡翠台[直播]
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER", Jade 翡翠台[直播]
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER", Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER", Jade 翡翠台[直播]
@@ -55,6 +20,8 @@ https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge2.tvfree.
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045&edge=edge1.hkdvb.com
@@ -69,6 +36,8 @@ https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045&edge=edge2.tvfree.
 
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
 https://live.hkdvb.com/hls/live/83.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
@@ -96,6 +65,64 @@ https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045&edge=edge3.hkdvb.c
 https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="myTVSUPER", Pearl 明珠台[直播]
 https://live.hkdvb.com/hls/live/84.m3u8?token=612648106861045&edge=edge2.tvfree.sbs
+
+#EXTINF:-1 tvg-id="91" tvg-name="娛樂新聞台(HK)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER", 娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER",亞洲劇台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="myTVSUPER",千禧經典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-id="205" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Rock_Action.png" group-title="myTVSUPER", ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-id="505" tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tvN.png" group-title="myTVSUPER",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="504" tvg-name="Animax-HK" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Animax-HK.png" group-title="myTVSUPER", Animax-HK
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv3/c" tvg-name="C+台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cplus.png" group-title="香港UTV", C+台
+http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/KIX.png" group-title="myTVSUPER", KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-id="706" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/DW.png" group-title="myTVSUPER", DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-id="705" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/France24.png" group-title="myTVSUPER", France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-id="402" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="402" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER", Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-id="707" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK_WORLD_JAPAN.png" group-title="myTVSUPER", NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/nick_jr.png" group-title="myTVSUPER", Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER", Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ZooMoo.png" group-title="myTVSUPER", ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-id="703" tvg-name="亞洲新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CNA.png" group-title="myTVSUPER", 亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="609" tvg-name="東方衛視國際頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Dongfang_Weishi.png" group-title="myTVSUPER", 東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="702" tvg-name="無線衛星新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBS_.png" group-title="myTVSUPER", 無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="神州新聞台" tvg-logo="" group-title="myTVSUPER", 神州新聞台
+http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="610" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER", 鳳凰衛視中文台
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="610" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER", 鳳凰衛視中文台
+http://125.227.210.55:39004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="610" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER", 鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="611" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER", 鳳凰衛視資訊台
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="611" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER", 鳳凰衛視資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="28" tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="85" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="myTVSUPER", 鳳凰衛視香港台[直播]
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -195,6 +222,8 @@ https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045&edge=live.tvfree.
 https://live.hkdvb.com/hls/live/800.m3u8?token=612648106861045&edge=edge2.tvfree.sb
 
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 https://live.hkdvb.com/hls/live/77.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 https://live.hkdvb.com/hls/live/77.m3u8?token=612648106861045&edge=edge1.hkdvb.com
@@ -237,6 +266,8 @@ https://live.hkdvb.com/hls/live/76.m3u8?token=612648106861045&edge=edge2.tvfree.
 
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
 https://live.hkdvb.com/hls/live/99.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
@@ -448,6 +479,13 @@ http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv2/tvb" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv2/tvb" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+
+
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="新加波频道" tvg-id="aktv/channel5hd" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-5.png" provider-type="iptv", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -466,7 +504,7 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-10" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ctv-news-live.png" group-title="台灣頻道", 中視
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-9" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Global%20News.png" group-title="台灣頻道", 寰宇新聞台
+#EXTINF:-1 tvg-id="aktv/null-9" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Global_News.png" group-title="台灣頻道", 寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-11" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cts_news.png" group-title="台灣頻道", 華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
