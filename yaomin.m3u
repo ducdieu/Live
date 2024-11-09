@@ -20,8 +20,6 @@ https://live.hkdvb.com/hls/live/81.m3u8?token=612648106861045&edge=edge2.tvfree.
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER", TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045&edge=edge1.hkdvb.com
@@ -36,8 +34,6 @@ https://live.hkdvb.com/hls/live/82.m3u8?token=612648106861045&edge=edge2.tvfree.
 
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
 https://live.hkdvb.com/hls/live/83.m3u8?token=612648106861045
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER", News 新聞台[直播]
@@ -123,7 +119,7 @@ http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-id="707" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK_WORLD_JAPAN.png" group-title="myTVSUPER", NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="aktv3/c" tvg-name="C+台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cplus.png" group-title="香港UTV", C+台
+#EXTINF:-1 tvg-id="aktv3/c" tvg-name="C+台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cplus.png" group-title="AKTV", C+台
 http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="85" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="myTVSUPER", 鳳凰衛視香港台[直播]
@@ -513,16 +509,12 @@ http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-13" tvg-name="0テレ NEWS 24 日本全天新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="AKTV", 0テレ NEWS 24 日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="" group-title="广州频道",广东新闻
-https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道",广东珠江
-https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道",广东珠江
