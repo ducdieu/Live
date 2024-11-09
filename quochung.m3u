@@ -220,8 +220,6 @@ https://live.hkdvb.com/hls/live/800.m3u8?token=521082489875980&edge=live.tvfree.
 https://live.hkdvb.com/hls/live/800.m3u8?token=521082489875980&edge=edge2.tvfree.sb
 
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 https://live.hkdvb.com/hls/live/77.m3u8?token=521082489875980
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 https://live.hkdvb.com/hls/live/77.m3u8?token=521082489875980&edge=edge1.hkdvb.com
@@ -264,8 +262,6 @@ https://live.hkdvb.com/hls/live/76.m3u8?token=521082489875980&edge=edge2.tvfree.
 
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
 https://live.hkdvb.com/hls/live/99.m3u8?token=521082489875980
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
@@ -477,8 +473,7 @@ http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv2/tvb" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/tvb" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+
 #EXTINF:-1 group-title="新加波频道" tvg-id="aktv/channel5hd" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-5.png" provider-type="iptv", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 group-title="新加波频道" tvg-id="aktv/channel8hd" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-8.png" provider-type="iptv", Channel 8 HD
