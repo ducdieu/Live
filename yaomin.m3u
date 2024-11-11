@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml,https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss},https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml,https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 tvg-id="1" tvg-name="SUPER FREE" tvg-logo="" group-title="myTVSUPER",SUPER FREE
+#EXTINF:-1 tvg-id="1" tvg-name="SUPER FREE" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super.png" group-title="myTVSUPER",SUPER FREE
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a19-golive.flv
-#EXTINF:-1 tvg-id="1" tvg-name="SUPER FREE" tvg-logo="" group-title="myTVSUPER",SUPER FREE
+#EXTINF:-1 tvg-id="1" tvg-name="SUPER FREE" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super.png" group-title="myTVSUPER",SUPER FREE
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
 
 #EXTINF:-1 tvg-id="18" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER",myTV SUPER 18台
@@ -133,7 +133,7 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="娛樂新聞台(HK)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER", 娛樂新聞台(HK)
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah009-golive.flv
 
-#EXTINF:-1 tvg-id="98" tvg-name="戲曲台" tvg-logo="" group-title="myTVSUPER", 戲曲台
+#EXTINF:-1 tvg-id="98" tvg-name="戲曲台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/chinese-opera-mask.png" group-title="myTVSUPER", 戲曲台
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a14-golive.flv
 
 #EXTINF:-1 tvg-id="101" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ZooMoo.png" group-title="myTVSUPER", ZooMoo
@@ -214,10 +214,10 @@ http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
 #EXTINF:-1 tvg-id="403" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="501" tvg-name="ROCK綜藝娛樂" tvg-logo="" group-title="myTVSUPER", ROCK綜藝娛樂
+#EXTINF:-1 tvg-id="501" tvg-name="ROCK綜藝娛樂" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ROCK_Entertainment.png" group-title="myTVSUPER", ROCK綜藝娛樂
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
 
-#EXTINF:-1 tvg-id="502" tvg-name="AXN" tvg-logo="" group-title="myTVSUPER", AXN
+#EXTINF:-1 tvg-id="502" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/axn.png" group-title="myTVSUPER", AXN
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b32-golive.flv
 
 #EXTINF:-1 tvg-id="504" tvg-name="Animax-HK" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Animax-HK.png" group-title="myTVSUPER", Animax-HK
@@ -228,7 +228,7 @@ http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="505" tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tvN.png" group-title="myTVSUPER",tvN
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
 
-#EXTINF:-1 tvg-id="602" tvg-name="創世電視" tvg-logo="" group-title="myTVSUPER", 創世電視
+#EXTINF:-1 tvg-id="602" tvg-name="創世電視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Creation-tv.png" group-title="myTVSUPER", 創世電視
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a24-golive.flv
 
 #EXTINF:-1 tvg-id="609" tvg-name="東方衛視國際頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Dongfang_Weishi.png" group-title="myTVSUPER", 東方衛視國際頻道
