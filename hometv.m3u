@@ -283,6 +283,8 @@ https://live.hg16888.vip/mytvsuper/CMAM
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
+http://route2.aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
@@ -518,6 +520,8 @@ https://live.hg16888.vip/mytvsuper/CJAZ
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/France24.png" group-title="myTVSUPER" [Channel 705], France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/France24.png" group-title="myTVSUPER" [Channel 705], France 24
+http://route2.aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/France24.png" group-title="myTVSUPER" [Channel 705], France 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
@@ -525,6 +529,8 @@ https://live.hg16888.vip/mytvsuper/CF24
 
 #EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/DW.png" group-title="myTVSUPER" [Channel 706], DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/DW.png" group-title="myTVSUPER" [Channel 706], DW
+http://route2.aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/DW.png" group-title="myTVSUPER" [Channel 706], DW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -954,6 +960,8 @@ http://route2.aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="aktv/null-11" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cts_news.png" group-title="台灣頻道", 華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv/null-11" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cts_news.png" group-title="台灣頻道", 華視
+http://route2.aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="aktv/null-6" tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Golden_movie.png" group-title="台灣頻道", 靖天電影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
