@@ -80,7 +80,7 @@ https://live.hg16888.vip/mytvsuper/J
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER" [Channel 82], TVB PLUS
 http://route2.aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER" [Channel 82], TVB PLU
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER" [Channel 82], TVB PLUS
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER" [Channel 82], TVB PLUS
 https://live.hkdvb.com/hls/live/82.m3u8?token=612648106843016
@@ -1024,13 +1024,17 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
+https://php.17186.eu.org/gdtv/web/nfws.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
+https://php.17186.eu.org/gdtv/web/gdgj.m3u8
 
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
@@ -1038,6 +1042,21 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/1.m3u8
 
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_xinwen.png" group-title="广州频道", 广东新闻
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="" group-title="广州频道", 广东民生
+https://php.17186.eu.org/gdtv/web/gdgg.m3u8
+
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="" group-title="广州频道", 广东影视
+https://php.17186.eu.org/gdtv/web/gdys.m3u8
+
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="" group-title="广州频道", 广东少儿
+https://php.17186.eu.org/gdtv/web/gdse.m3u8
+
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="" group-title="广州频道", 广东体育
+https://php.17186.eu.org/gdtv/web/gdty.m3u8
+
+#EXTINF:-1 tvg-name="广东综艺" tvg-logo="" group-title="广州频道", 广东综艺
+https://php.17186.eu.org/gdtv/web/gdzy.m3u8
 
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广州频道", 广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
