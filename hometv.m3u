@@ -51,13 +51,13 @@ http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 http://route2.aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 http://abcnew.site:8880/D12m1018/707333990/1726
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 https://live.hkdvb.com/hls/live/81.m3u8?token=614388635701543
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
@@ -104,6 +104,8 @@ https://live.hg16888.vip/mytvsuper/B
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 http://route2.aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 https://live.hkdvb.com/hls/live/83.m3u8?token=614388635701543
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
@@ -456,6 +458,8 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 http://route2.aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 http://abcnew.site:8880/D12m1018/707333990/71088
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 http://125.227.210.55:39004/VideoInput/play.ts
@@ -472,6 +476,8 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
 http://route2.aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -483,6 +489,8 @@ https://live.hg16888.vip/mytvsuper/PIN
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="myTVSUPER" [Channel 612], 鳳凰衛視香港台
 http://route2.aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="myTVSUPER" [Channel 612], 鳳凰衛視香港台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="myTVSUPER" [Channel 612], 鳳凰衛視香港台
 https://live.hkdvb.com/hls/live/85.m3u8?token=614388635701543
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="myTVSUPER" [Channel 612], 鳳凰衛視香港台
@@ -1002,40 +1010,60 @@ http://route2.aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-name="亞洲衛視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ASTV.png" group-title="卫视", ASTV 亞洲衛視
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
+http://182.92.109.190:1668/72/72.php?id=dwqws
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 https://php.17186.eu.org/gdtv/web/nfws.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广州频道", 大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 https://php.17186.eu.org/gdtv/web/gdgj.m3u8
 
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广州频道", 广东珠江
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广州频道", 广州综合
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广东", 广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广州频道", 广州新闻
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广东", 广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广州频道", 广州影视
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广东", 广州影视
 http://php.jdshipin.com:8880/gztv.php?id=yingshi
 
-#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广州频道", 广州法治
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广东", 广州法治
 http://php.jdshipin.com:8880/gztv.php?id=fazhi
 
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广州频道", 广州南国都市
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广东", 广州南国都市
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+
+#EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/foshanTV.png" group-title="广东", 佛山综合
+http://php.jdshipin.com:8880/fstv.php?id=fszh
+
+#EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/foshanTV.png" group-title="广东", 佛山公共
+http://php.jdshipin.com:8880/fstv.php?id=fsgg
+
+#EXTINF:-1 tvg-name="佛山高明" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/foshanTV.png" group-title="广东", 佛山高明
+http://php.jdshipin.com:8880/fstv.php?id=fsgm
+
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/foshanTV.png" group-title="广东", 佛山顺德
+http://php.jdshipin.com:8880/fstv.php?id=fssd
+
+#EXTINF:-1 tvg-name="佛山三水" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/foshanTV.png" group-title="广东", 佛山三水
+http://php.jdshipin.com:8880/fstv.php?id=fsss
+
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/foshanTV.png" group-title="广东", 佛山影视
+http://php.jdshipin.com:8880/fstv.php?id=fsys
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010011/1.m3u8
