@@ -1016,51 +1016,45 @@ http://route2.aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 http://182.92.109.190:1668/72/72.php?id=dwqws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
-https://php.17186.eu.org/gdtv/web/nfws.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
-https://php.17186.eu.org/gdtv/web/gdgj.m3u8
 
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
-https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/1.m3u8
 
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广东", 广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广东", 广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广东", 广州综合
-http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广东", 广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广东", 广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广东", 广州新闻
-http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广东", 广州影视
+http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广东", 广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广东", 广州影视
-http://php.jdshipin.com:8880/gztv.php?id=yingshi
 
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广东", 广州法治
+http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广东", 广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
-#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广东", 广州法治
-http://php.jdshipin.com:8880/gztv.php?id=fazhi
 
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广东", 广州南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广东", 广州南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/foshanTV.png" group-title="广东", 佛山综合
 http://php.jdshipin.com:8880/fstv.php?id=fszh
