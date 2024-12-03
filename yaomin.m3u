@@ -987,9 +987,9 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS-新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBS-news.png" group-title="台灣頻道", TVBS-新聞台
 http://route2.aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBS-news.png" group-title="台灣頻道", 東森新聞
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/EBC-new.png" group-title="台灣頻道", 東森新聞
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBS-news.png" group-title="台灣頻道", 東森新聞
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/EBC-new.png" group-title="台灣頻道", 東森新聞
 http://route2.aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cti_asia.png" group-title="台灣頻道", 中天亞洲台
@@ -1031,6 +1031,13 @@ http://route2.aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/LTV_movie.png" group-title="台灣頻道", 龍華電影台
 http://route2.aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="i-Fun 動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/i-Fun.png" group-title="台灣頻道", i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-id="i-Fun 動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/i-Fun.png" group-title="台灣頻道", i-Fun 動漫台
+http://route2.aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-id="i-Fun 動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/i-Fun.png" group-title="台灣頻道", i-Fun 動漫台
+https://4gtv.mytvsuper.xyz/litv/litv-ftv15
 
 #EXTINF:-1 tvg-name="亞洲衛視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ASTV.png" group-title="其他", ASTV 亞洲衛視
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
