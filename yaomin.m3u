@@ -1,4 +1,5 @@
 #EXTM3U 
+EXT-X-VERSION=“https://www.stream-link.org/playlist.m3u?token=4f654d5a-0c0a-4fc3-8dc8-62ed49bcefd3&hmac=d83493c3fa7a78839de117a70aede709”
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="Loupe-4k" tvg-name="Loupe 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Loupe.png" group-title="4K", Loupe 4K 艺术
@@ -651,6 +652,8 @@ https://live.hkdvb.com/hls/live/800.m3u8?token=612648106843016&edge=edge2.tvfree
 https://4gtv.mytvsuper.xyz/mytvsuper/JUHD
 
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
+https://sc2024.stream-link.org/playlist/670b0bbac9e7.php?id=hkt1765chfp&token=4f654d5a-0c0a-4fc3-8dc8-62ed49bcefd3&hmac=d83493c3fa7a78839de117a70aede709
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 https://live.hkdvb.com/hls/live/77.m3u8?token=612648106843016
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 https://live.hkdvb.com/hls/live/77.m3u8?token=612648106843016&edge=edge1.hkdvb.com
@@ -922,6 +925,8 @@ http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvbusa9" tvg-name="TVB Pearl Drama 明珠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Pearl_Drama.png" group-title="TVB Anywhere", TVB Pearl Drama 明珠剧集台(北美)
 http://route2.aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="tvbanywhere3" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Lifestyle.png" group-title="TVB Anywhere", TVB生活台
+https://sc2024.stream-link.org/playlist/670b0bbac9e7.php?id=hkt0206qwcm&token=4f654d5a-0c0a-4fc3-8dc8-62ed49bcefd3&hmac=d83493c3fa7a78839de117a70aede709
 #EXTINF:-1 tvg-id="tvbanywhere3" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Lifestyle.png" group-title="TVB Anywhere", TVB生活台
 http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 #EXTINF:-1 tvg-id="tvbanywhere3" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Lifestyle.png" group-title="TVB Anywhere", TVB生活台
