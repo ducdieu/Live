@@ -914,10 +914,10 @@ https://pixman.mytvsuper.com.mp/litv/litv-ftv15
 #EXTINF:-1 tvg-name="亞洲衛視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ASTV.png" group-title="其他", ASTV 亞洲衛視
 https://play-hsbj.vzan.com/slowlive/821481626725612418/live.m3u8
 
-#EXTINF:-1 tvg-id="0テレ NEWS 24" tvg-name="0テレ NEWS 24 日本全天新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他", NHK東京総合
+#EXTINF:-1 tvg-id="0テレ NEWS 24" tvg-name="0テレ NEWS 24 日本全天新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他", 0テレ NEWS 24 日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他", 0テレ NEWS 24 日本全天新聞
+#EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
