@@ -63,6 +63,8 @@ https://pixman.mytvsuper.com.mp/mytvsuper/TVG
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
+http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 https://live.hkdvb.com/hls/live/81.m3u8?token=457754816076921
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 https://live.hkdvb.com/hls/live/81.m3u8?token=457754816076921&edge=edge1.hkdvb.com
@@ -102,6 +104,8 @@ https://pixman.mytvsuper.com.mp/mytvsuper/B
 
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
+http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 https://live.hkdvb.com/hls/live/83.m3u8?token=457754816076921
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
@@ -768,6 +772,8 @@ https://live.hkdvb.com/hls/live/32.m3u8?token=457754816076921&edge=live.tvfree.s
 https://live.hkdvb.com/hls/live/32.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://live.hkdvb.com/static/logos/33.png" group-title="{RTHK} 香港電台", CCTV-1  港澳版[直播]
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://live.hkdvb.com/static/logos/33.png" group-title="{RTHK} 香港電台", CCTV-1  港澳版[直播]
 https://live.hkdvb.com/hls/live/33.m3u8?token=457754816076921
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://live.hkdvb.com/static/logos/33.png" group-title="{RTHK} 香港電台", CCTV-1  港澳版[直播]
 https://live.hkdvb.com/hls/live/33.m3u8?token=457754816076921&edge=edge1.hkdvb.com
@@ -783,6 +789,8 @@ https://live.hkdvb.com/hls/live/33.m3u8?token=457754816076921&edge=edge2.tvfree.
 #EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://live.hkdvb.com/static/logos/34.png" group-title="{RTHK} 香港電台", CGTN Documentary[直播]
 https://live.hkdvb.com/hls/live/34.m3u8?token=457754816076921
 #EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://live.hkdvb.com/static/logos/34.png" group-title="{RTHK} 香港電台", CGTN Documentary[直播]
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://live.hkdvb.com/static/logos/34.png" group-title="{RTHK} 香港電台", CGTN Documentary[直播]
 https://live.hkdvb.com/hls/live/34.m3u8?token=457754816076921&edge=edge1.hkdvb.com
 #EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://live.hkdvb.com/static/logos/34.png" group-title="{RTHK} 香港電台", CGTN Documentary[直播]
 https://live.hkdvb.com/hls/live/34.m3u8?token=457754816076921&edge=edge2.hkdvb.com
@@ -795,6 +803,8 @@ https://live.hkdvb.com/hls/live/34.m3u8?token=457754816076921&edge=edge2.tvfree.
 
 #EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{RTHK} 香港電台", CGTN English[直播]
 https://live.hkdvb.com/hls/live/35.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{RTHK} 香港電台", CGTN English[直播]
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{RTHK} 香港電台", CGTN English[直播]
 https://live.hkdvb.com/hls/live/35.m3u8?token=457754816076921&edge=edge1.hkdvb.com
 #EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{RTHK} 香港電台", CGTN English[直播]
@@ -821,6 +831,8 @@ http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
@@ -829,7 +841,7 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
 #EXTINF:-1 tvg-id="AstroWahLaiToi" tvg-name="TVB华丽台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_wah_lai_toi_hd.png" group-title="Astro", TVB华丽台（粤语）
-http://abcnew.site:8880/D12m1018/707333990/71040
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 tvg-id="AstroWahLaiToi" tvg-name="TVB华丽台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_wah_lai_toi_hd.png" group-title="Astro", TVB华丽台
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 #EXTINF:-1 tvg-id="AstroWahLaiToi" tvg-name="TVB华丽台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_wah_lai_toi_hd.png" group-title="Astro", TVB华丽台
@@ -839,12 +851,6 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 #EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_AEC.png" group-title="Astro", Astro AEC
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/astro_AOD.png" group-title="Astro", Astro AOD
-http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/astro_Quan_Jia.png" group-title="Astro", Astro QJ
-http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="Tvbclassic" tvg-name="TVB千禧经典" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="Astro", TVB千禧经典
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
@@ -911,8 +917,11 @@ http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1 tvg-id="i-Fun 動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/i-Fun.png" group-title="台灣頻道", i-Fun 動漫台
 https://pixman.mytvsuper.com.mp/litv/litv-ftv15
 
-#EXTINF:-1 tvg-name="亞洲衛視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ASTV.png" group-title="其他", ASTV 亞洲衛視
+#EXTINF:-1  tvg-id="亞洲衛視" tvg-name="亞洲衛視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ASTV.png" group-title="其他", ASTV 亞洲衛視
 https://play-hsbj.vzan.com/slowlive/821481626725612418/live.m3u8
+
+#EXTINF:-1  tvg-id="香港_C+" tvg-name="香港_C+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cplus.png" group-title="其他", 香港_C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-id="0テレ NEWS 24" tvg-name="0テレ NEWS 24 日本全天新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他", 0テレ NEWS 24 日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
@@ -962,91 +971,90 @@ http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010011/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010211/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000502
+
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010212/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010017/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010139/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5plus.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010202/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5plus.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010214/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010215/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010216/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010052/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010203/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010092/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010093/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010207/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010094/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010142/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010210/1.m3u8
+http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
