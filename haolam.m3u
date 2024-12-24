@@ -62,8 +62,6 @@ https://pixman.mytvsuper.com.mp/mytvsuper/TVG
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
-http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 https://live.hkdvb.com/hls/live/81.m3u8?token=457754816076921
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 https://live.hkdvb.com/hls/live/81.m3u8?token=457754816076921&edge=edge1.hkdvb.com
@@ -104,8 +102,6 @@ https://pixman.mytvsuper.com.mp/mytvsuper/B
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
-http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 https://live.hkdvb.com/hls/live/83.m3u8?token=457754816076921
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 https://live.hkdvb.com/hls/live/83.m3u8?token=457754816076921&edge=edge1.hkdvb.com
@@ -117,6 +113,8 @@ https://live.hkdvb.com/hls/live/83.m3u8?token=457754816076921&edge=edge3.hkdvb.c
 https://live.hkdvb.com/hls/live/83.m3u8?token=457754816076921&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 https://live.hkdvb.com/hls/live/83.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
+http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -827,7 +825,7 @@ http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvbusa9" tvg-name="TVB Pearl Drama 明珠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Pearl_Drama.png" group-title="TVB Anywhere", TVB Pearl Drama 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台(国语)
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
