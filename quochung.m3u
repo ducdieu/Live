@@ -894,7 +894,7 @@ http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cts_news.png" group-title="台灣頻道", 華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cts_news.png" group-title="台灣頻道",  緯來體育台
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/weilaitiyu.png" group-title="台灣頻道",  緯來體育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Golden_movie.png" group-title="台灣頻道", 靖天電影台
