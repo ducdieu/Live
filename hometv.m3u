@@ -54,6 +54,18 @@ https://pixman.mytvsuper.com.mp/mytvsuper/C28
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
+https://live.hkdvb.com/hls/live/100.m3u8?token=614388635757021
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
+https://live.hkdvb.com/hls/live/100.m3u8?token=614388635757021&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
+https://live.hkdvb.com/hls/live/100.m3u8?token=614388635757021&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
+https://live.hkdvb.com/hls/live/100.m3u8?token=614388635757021&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
+https://live.hkdvb.com/hls/live/100.m3u8?token=614388635757021&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
+https://live.hkdvb.com/hls/live/100.m3u8?token=614388635757021&edge=edge2.tvfree.sbs
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
@@ -78,6 +90,19 @@ https://live.hkdvb.com/hls/live/81.m3u8?token=614388635757021&edge=edge2.tvfree.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 https://pixman.mytvsuper.com.mp/mytvsuper/J
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台(h265)
+https://live.hkdvb.com/hls/live/581.m3u8?token=614388635757021
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台(h265)
+https://live.hkdvb.com/hls/live/581.m3u8?token=614388635757021&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台(h265)
+https://live.hkdvb.com/hls/live/581.m3u8?token=614388635757021&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台(h265)
+https://live.hkdvb.com/hls/live/581.m3u8?token=614388635757021&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台(h265)
+https://live.hkdvb.com/hls/live/581.m3u8?token=614388635757021&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="myTVSUPER" [Channel 81], 翡翠台(h265)
+https://live.hkdvb.com/hls/live/581.m3u8?token=614388635757021&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="myTVSUPER" [Channel 82], TVB PLUS
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
@@ -643,6 +668,19 @@ https://live.hkdvb.com/hls/live/96.m3u8?token=614388635757021&edge=edge3.hkdvb.c
 https://live.hkdvb.com/hls/live/96.m3u8?token=614388635757021&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkdvb.com/static/logos/96.png" group-title="{NowTV} Now Player", ViuTV Six[直播]
 https://live.hkdvb.com/hls/live/96.m3u8?token=614388635757021&edge=edge2.tvfree.sbs
+
+#EXTINF:-1 tvg-id="115" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="{NowTV} Now Player", HBO[直播]
+https://live.hkdvb.com/hls/live/115.m3u8?token=614388635757021
+#EXTINF:-1 tvg-id="115" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="{NowTV} Now Player", HBO[直播]
+https://live.hkdvb.com/hls/live/115.m3u8?token=614388635757021&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="115" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="{NowTV} Now Player", HBO[直播]
+https://live.hkdvb.com/hls/live/115.m3u8?token=614388635757021&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="115" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="{NowTV} Now Player", HBO[直播]
+https://live.hkdvb.com/hls/live/115.m3u8?token=614388635757021&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="115" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="{NowTV} Now Player", HBO[直播]
+https://live.hkdvb.com/hls/live/115.m3u8?token=614388635757021&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="115" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="{NowTV} Now Player", HBO[直播]
+https://live.hkdvb.com/hls/live/115.m3u8?token=614388635757021&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{NowTV} Now Player", Now Popcorn 爆谷台[直播]
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
