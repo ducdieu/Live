@@ -692,8 +692,6 @@ https://live.hkdvb.com/hls/live/133.m3u8?token=612648106876420&edge=edge3.hkdvb.
 https://live.hkdvb.com/hls/live/133.m3u8?token=612648106876420&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{NowTV} Now Player", Now Popcorn 爆谷台[直播]
 https://live.hkdvb.com/hls/live/133.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{NowTV} Now Player", Now Popcorn 爆谷台[直播]
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
 https://live.hkdvb.com/hls/live/138.m3u8?token=612648106876420
@@ -707,8 +705,6 @@ https://live.hkdvb.com/hls/live/138.m3u8?token=612648106876420&edge=edge3.hkdvb.
 https://live.hkdvb.com/hls/live/138.m3u8?token=612648106876420&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
 https://live.hkdvb.com/hls/live/138.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="{NowTV} Now Player", Now NEWS 新聞台[直播]
 https://live.hkdvb.com/hls/live/332.m3u8?token=612648106876420
@@ -900,9 +896,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="AstroWahLaiToi" tvg-name="TVB华丽台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_wah_lai_toi_hd.png" group-title="Astro", TVB华丽台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
-#EXTINF:-1 tvg-id="Tvbclassic" tvg-name="TVB千禧经典" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="Astro", TVB千禧经典
-http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-
 #EXTINF:-1 group-title="新加波频道" tvg-id="aktv/channel5hd" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-5.png", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 
@@ -955,9 +948,6 @@ https://play-hsbj.vzan.com/slowlive/821481626725612418/live.m3u8
 
 #EXTINF:-1  tvg-id="香港_C+" tvg-name="香港_C+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cplus.png" group-title="其他", 香港_C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-#EXTINF:-1 tvg-id="0テレ NEWS 24" tvg-name="0テレ NEWS 24 日本全天新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他", 0テレ NEWS 24 日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8

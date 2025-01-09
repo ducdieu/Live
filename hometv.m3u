@@ -692,8 +692,6 @@ https://live.hkdvb.com/hls/live/133.m3u8?token=614388635757021&edge=edge3.hkdvb.
 https://live.hkdvb.com/hls/live/133.m3u8?token=614388635757021&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{NowTV} Now Player", Now Popcorn 爆谷台[直播]
 https://live.hkdvb.com/hls/live/133.m3u8?token=614388635757021&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{NowTV} Now Player", Now Popcorn 爆谷台[直播]
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
 https://live.hkdvb.com/hls/live/138.m3u8?token=614388635757021
@@ -707,8 +705,6 @@ https://live.hkdvb.com/hls/live/138.m3u8?token=614388635757021&edge=edge3.hkdvb.
 https://live.hkdvb.com/hls/live/138.m3u8?token=614388635757021&edge=live.tvfree.sbs
 #EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
 https://live.hkdvb.com/hls/live/138.m3u8?token=614388635757021&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{NowTV} Now Player", Now Superstars 星影台[直播]
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="{NowTV} Now Player", Now NEWS 新聞台[直播]
 https://live.hkdvb.com/hls/live/332.m3u8?token=614388635757021
@@ -955,9 +951,6 @@ https://play-hsbj.vzan.com/slowlive/821481626725612418/live.m3u8
 
 #EXTINF:-1  tvg-id="香港_C+" tvg-name="香港_C+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cplus.png" group-title="其他", 香港_C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-#EXTINF:-1 tvg-id="0テレ NEWS 24" tvg-name="0テレ NEWS 24 日本全天新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他", 0テレ NEWS 24 日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
