@@ -443,6 +443,18 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/CMAM
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
+https://live.hkdvb.com/hls/live/506.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
+https://live.hkdvb.com/hls/live/506.m3u8?token=457754816076921&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
+https://live.hkdvb.com/hls/live/506.m3u8?token=457754816076921&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
+https://live.hkdvb.com/hls/live/506.m3u8?token=457754816076921&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
+https://live.hkdvb.com/hls/live/506.m3u8?token=457754816076921&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
+https://live.hkdvb.com/hls/live/506.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
@@ -716,6 +728,18 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/DTV
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
+https://live.hkdvb.com/hls/live/504.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
+https://live.hkdvb.com/hls/live/504.m3u8?token=457754816076921&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
+https://live.hkdvb.com/hls/live/504.m3u8?token=457754816076921&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
+https://live.hkdvb.com/hls/live/504.m3u8?token=457754816076921&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
+https://live.hkdvb.com/hls/live/504.m3u8?token=457754816076921&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
+https://live.hkdvb.com/hls/live/504.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -730,6 +754,18 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/PCC
 
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
+https://live.hkdvb.com/hls/live/505.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
+https://live.hkdvb.com/hls/live/505.m3u8?token=457754816076921&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
+https://live.hkdvb.com/hls/live/505.m3u8?token=457754816076921&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
+https://live.hkdvb.com/hls/live/505.m3u8?token=457754816076921&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
+https://live.hkdvb.com/hls/live/505.m3u8?token=457754816076921&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
+https://live.hkdvb.com/hls/live/505.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1120,6 +1156,19 @@ https://live.hkdvb.com/hls/live/642.m3u8?token=457754816076921&edge=live.tvfree.
 #EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/now_sports_ch642_nba_tv.png" group-title="{NowTV} Now Player", Now 642[直播]
 https://live.hkdvb.com/hls/live/642.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
 
+#EXTINF:-1 tvg-id="644" tvg-name="Now Sports 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Now_Sports_4K_1.png" group-title="{NowTV} Now Player", Now Sports 4K[直播]
+https://live.hkdvb.com/hls/live/644.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="644" tvg-name="Now Sports 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Now_Sports_4K_1.png" group-title="{NowTV} Now Player", Now Sports 4K[直播]
+https://live.hkdvb.com/hls/live/644.m3u8?token=457754816076921&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="644" tvg-name="Now Sports 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Now_Sports_4K_1.png" group-title="{NowTV} Now Player", Now Sports 4K[直播]
+https://live.hkdvb.com/hls/live/644.m3u8?token=457754816076921&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="644" tvg-name="Now Sports 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Now_Sports_4K_1.png" group-title="{NowTV} Now Player", Now Sports 4K[直播]
+https://live.hkdvb.com/hls/live/644.m3u8?token=457754816076921&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="644" tvg-name="Now Sports 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Now_Sports_4K_1.png" group-title="{NowTV} Now Player", Now Sports 4K[直播]
+https://live.hkdvb.com/hls/live/644.m3u8?token=457754816076921&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="644" tvg-name="Now Sports 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Now_Sports_4K_1.png" group-title="{NowTV} Now Player", Now Sports 4K[直播]
+https://live.hkdvb.com/hls/live/644.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
+
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://live.hkdvb.com/static/logos/31.png" group-title="{RTHK} 香港電台", 港台電視 31[直播]
 https://live.hkdvb.com/hls/live/31.m3u8?token=457754816076921
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://live.hkdvb.com/static/logos/31.png" group-title="{RTHK} 香港電台", 港台電視 31[直播]
@@ -1207,6 +1256,18 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 #EXTINF:-1 tvg-id="tvbusa9" tvg-name="TVB Pearl Drama 明珠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Pearl_Drama.png" group-title="TVB Anywhere", TVB Pearl Drama 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+https://live.hkdvb.com/hls/live/203.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+https://live.hkdvb.com/hls/live/203.m3u8?token=457754816076921&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+https://live.hkdvb.com/hls/live/203.m3u8?token=457754816076921&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+https://live.hkdvb.com/hls/live/203.m3u8?token=457754816076921&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+https://live.hkdvb.com/hls/live/203.m3u8?token=457754816076921&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
+https://live.hkdvb.com/hls/live/203.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
@@ -1296,6 +1357,26 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="701" tvg-name="CCTV5(h265)" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="體育", CCTV5(h265)[直播]
+https://live.hkdvb.com/hls/live/701.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="702" tvg-name="CCTV5+" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="體育", CCTV5+[直播]
+https://live.hkdvb.com/hls/live/702.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="體育", ELTA 1[直播]
+https://live.hkdvb.com/hls/live/703.m3u8?token=457754816076921
+
+#EXTINF:-1 tvg-id="507" tvg-name="AT-X" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/AT-X.png" group-title="其他", AT-X[直播]
+https://live.hkdvb.com/hls/live/507.m3u8?token=457754816076921
+#EXTINF:-1 tvg-id="507" tvg-name="AT-X" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/AT-X.png" group-title="其他", AT-X[直播]
+https://live.hkdvb.com/hls/live/507.m3u8?token=457754816076921&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="507" tvg-name="AT-X" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/AT-X.png" group-title="其他", AT-X[直播]
+https://live.hkdvb.com/hls/live/507.m3u8?token=457754816076921&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="507" tvg-name="AT-X" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/AT-X.png" group-title="其他", AT-X[直播]
+https://live.hkdvb.com/hls/live/507.m3u8?token=457754816076921&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="507" tvg-name="AT-X" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/AT-X.png" group-title="其他", AT-X[直播]
+https://live.hkdvb.com/hls/live/507.m3u8?token=457754816076921&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="507" tvg-name="AT-X" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/AT-X.png" group-title="其他", AT-X[直播]
+https://live.hkdvb.com/hls/live/507.m3u8?token=457754816076921&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/SuperSport_Laliga.png" group-title="其他", SuperSport LaLiga[直播]
 https://live.hkdvb.com/hls/live/700.m3u8?token=457754816076921
