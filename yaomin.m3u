@@ -253,6 +253,18 @@ https://gongyi.pendy.us.kg/CTVC
 #KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CTVC
 
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台(h256)
+https://live.hkdvb.com/hls/live/87.m3u8?token=612648106876420
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台(h256)
+https://live.hkdvb.com/hls/live/87.m3u8?token=612648106876420&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台(h256)
+https://live.hkdvb.com/hls/live/87.m3u8?token=612648106876420&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台(h256)
+https://live.hkdvb.com/hls/live/87.m3u8?token=612648106876420&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台(h256)
+https://live.hkdvb.com/hls/live/87.m3u8?token=612648106876420&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台(h256)
+https://live.hkdvb.com/hls/live/87.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
 #EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台
@@ -1275,6 +1287,18 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 
 #EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
+https://live.hkdvb.com/hls/live/207.m3u8?token=612648106876420
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
+https://live.hkdvb.com/hls/live/207.m3u8?token=612648106876420&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
+https://live.hkdvb.com/hls/live/207.m3u8?token=612648106876420&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
+https://live.hkdvb.com/hls/live/207.m3u8?token=612648106876420&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
+https://live.hkdvb.com/hls/live/207.m3u8?token=612648106876420&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
+https://live.hkdvb.com/hls/live/207.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="Astro" , 翡翠台 (新加坡)
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
@@ -1358,12 +1382,18 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="701" tvg-name="CCTV5(h265)" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="體育", CCTV5(h265)[直播]
-https://live.hkdvb.com/hls/live/701.m3u8?token=612648106876420
-#EXTINF:-1 tvg-id="702" tvg-name="CCTV5+" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="體育", CCTV5+[直播]
-https://live.hkdvb.com/hls/live/702.m3u8?token=612648106876420
-#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="體育", ELTA 1[直播]
+#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ELTA_1.png" group-title="其他", ELTA 1[直播]
 https://live.hkdvb.com/hls/live/703.m3u8?token=612648106876420
+#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ELTA_1.png" group-title="其他", ELTA 1[直播]
+https://live.hkdvb.com/hls/live/703.m3u8?token=612648106876420&edge=edge1.hkdvb.com
+#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ELTA_1.png" group-title="其他", ELTA 1[直播]
+https://live.hkdvb.com/hls/live/703.m3u8?token=612648106876420&edge=edge2.hkdvb.com
+#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ELTA_1.png" group-title="其他", ELTA 1[直播]
+https://live.hkdvb.com/hls/live/703.m3u8?token=612648106876420&edge=edge3.hkdvb.com
+#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ELTA_1.png" group-title="其他", ELTA 1[直播]
+https://live.hkdvb.com/hls/live/703.m3u8?token=612648106876420&edge=live.tvfree.sbs
+#EXTINF:-1 tvg-id="703" tvg-name="ELTA 1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ELTA_1.png" group-title="其他", ELTA 1[直播]
+https://live.hkdvb.com/hls/live/703.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-id="507" tvg-name="AT-X" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/AT-X.png" group-title="其他", AT-X[直播]
 https://live.hkdvb.com/hls/live/507.m3u8?token=612648106876420
@@ -1392,11 +1422,13 @@ https://live.hkdvb.com/hls/live/700.m3u8?token=612648106876420&edge=live.tvfree.
 https://live.hkdvb.com/hls/live/700.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
+http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
-http://182.92.109.190:1668/72/72.php?id=dwqws
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226442
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/dawanquweishi.png" group-title="广东", 大湾区卫视
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -1415,10 +1447,24 @@ https://live.hkdvb.com/hls/live/502.m3u8?token=612648106876420&edge=live.tvfree.
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 https://live.hkdvb.com/hls/live/502.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
 
+#EXTINF:-1  tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_xinwen.png" group-title="广东",广东新闻
+https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+#EXTINF:-1  tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_xinwen.png" group-title="广东",广东新闻
+http://php.jdshipin.com/TVOD/chudian.php?id=xwpd
+
+#EXTINF:-1  tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongyingshi.png" group-title="广东" ,广东影视
+https://php.17186.eu.org/gdtv/gdys.m3u8
+#EXTINF:-1  tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongyingshi.png" group-title="广东" ,广东影视
+http://php.jdshipin.com/TVOD/chudian.php?id=gdys
+#EXTINF:-1  tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongyingshi.png" group-title="广东" ,广东影视
+http://php.jdshipin.com/TVOD/iptv.php?id=gdys
+
 #EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
 https://live.hkdvb.com/hls/live/503.m3u8?token=612648106876420
 #EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
@@ -1433,106 +1479,108 @@ https://live.hkdvb.com/hls/live/503.m3u8?token=612648106876420&edge=live.tvfree.
 https://live.hkdvb.com/hls/live/503.m3u8?token=612648106876420&edge=edge2.tvfree.sbs
 
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ.png" group-title="广东", 广州综合
-http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-news.png" group-title="广东", 广州新闻
-http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-yingshi.png" group-title="广东", 广州影视
-http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
 
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-fazhi.png" group-title="广东", 广州法治
-http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
 
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广东", 广州南国都市
-http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/GZ-nanguodoushi.png" group-title="广东", 广州南国都市
+http://php.jdshipin.com/TVOD/iptv.php?id=ngds4k
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000371/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000003
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
+https://live.hkdvb.com/hls/live/701.m3u8?token=612648106876420&edge=edge1.hkdvb.com
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=YanG-1989
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5plus.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
+https://live.hkdvb.com/hls/live/702.m3u8?token=612648106876420&edge=edge2.hkdvb.com
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV5plus.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=YanG-1989
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000374/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000006
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000504
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000008
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000505
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000508
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000509
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265101/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000510
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000511
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
