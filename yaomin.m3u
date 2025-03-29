@@ -432,7 +432,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/C3
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/C2
 
-#EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/HOY_78.png" group-title="{HOY} 奇妙電視", HOY TV 資訊台[直播]
+#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/HOY_77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="{NowTV} Now Player", ViuTV[直播]
