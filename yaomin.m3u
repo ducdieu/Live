@@ -586,6 +586,31 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
 #EXTINF:-1 tvg-id="朝鮮恩情台" tvg-name="朝鮮恩情台" tvg-logo="" group-title="其他",朝鮮恩情台
 http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="體育", 广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="體育", 广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="體育", 广东体育
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
+
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/weilaitiyu.png" group-title="體育",緯來體育
+http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="" group-title="體育",beIN SPORTS XTRA
+http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="PAC12" tvg-name="PAC12" tvg-logo="" group-title="體育",PAC12
+http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Channel DE" tvg-name="Tennis Channel DE" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tennis_channel.png" group-title="體育",Tennis Channel DE
+http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Channel 2 US" tvg-name="Tennis Channel 2 US" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tennis_channel_2.png" group-title="體育",Tennis Channel 2 US
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Channel US" tvg-name="Tennis Channel US" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tennis_channel.png" group-title="體育",Tennis Channel US
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="FIGHT SPORTS" tvg-name="FIGHT SPORTS" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/fight_sports.png" group-title="體育",FIGHT SPORTS
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
 
@@ -608,10 +633,3 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-
-#EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 tvg-id="503" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdong_tiyu.png" group-title="广东", 广东体育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8
