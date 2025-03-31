@@ -596,7 +596,7 @@ http://cdn2.132.us.kg/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/weilaitiyu.png" group-title="體育",緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="" group-title="體育",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/bein_sports_xtra.png" group-title="體育",beIN SPORTS XTRA
 http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="PAC12" tvg-name="PAC12" tvg-logo="" group-title="體育",PAC12
