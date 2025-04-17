@@ -7,7 +7,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="myTVSUPER" [Channel 800], 翡翠台 4K
-http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="myTVSUPER" [Channel 800], 翡翠台 4K (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21,7 +21,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/JUHD
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CWIN
 
 #EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER" [Channel 18], myTV SUPER 18台
-http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER" [Channel 18], myTV SUPER 18台 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29,7 +29,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/C18
 
 #EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER" [Channel 28], 28 AI 智慧賽馬
-http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER" [Channel 28], 28 AI 智慧賽馬 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,7 +37,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/C28
 
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -45,7 +45,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/TVG
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="myTVSUPER" [Channel 81], 翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="myTVSUPER" [Channel 81], 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="myTVSUPER" [Channel 81], 翡翠台 (mpd)
@@ -55,7 +55,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/J
 
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBPlus.png" group-title="myTVSUPER" [Channel 82], TVB PLUS
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBPlus.png" group-title="myTVSUPER" [Channel 82], TVB PLUS
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBPlus.png" group-title="myTVSUPER" [Channel 82], TVB PLUS (mpd)
@@ -65,7 +65,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/B
 
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBNews.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBNews.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBNews.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
@@ -77,7 +77,7 @@ http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/C
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBPearl.png" group-title="myTVSUPER" [Channel 84], 明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBPearl.png" group-title="myTVSUPER" [Channel 84], 明珠台 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,7 +85,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/P
 
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="myTVSUPER" [Channel 86], 千禧經典台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="myTVSUPER" [Channel 86], 千禧經典台 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -111,7 +111,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/CDR3
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/TVO
 
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER" [Channel 91], 娛樂新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER" [Channel 91], 娛樂新聞台
 http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER" [Channel 91], 娛樂新聞台 (mpd)
@@ -133,7 +133,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/CCOC
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/KID
 
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ZooMoo.png" group-title="myTVSUPER" [Channel 101], ZooMoo
-http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ZooMoo.png" group-title="myTVSUPER" [Channel 101], ZooMoo (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -141,7 +141,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/ZOO
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Nickelodeon.png" group-title="myTVSUPER" [Channel 104], Nickelodeon
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Nickelodeon.png" group-title="myTVSUPER" [Channel 104], Nickelodeon (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,7 +149,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CNIKO
 
 #EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/nick_jr.png" group-title="myTVSUPER" [Channel 105], Nick Jr.
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/nick_jr.png" group-title="myTVSUPER" [Channel 105], Nick Jr. (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -163,7 +163,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/CNIJR
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CCLM
 
 #EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台
@@ -175,7 +175,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CMAM
 
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
-http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,7 +195,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/CCCM
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CMC
 
 #EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Rock_Action.png" group-title="myTVSUPER" [Channel 205], ROCK Action
-http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Rock_Action.png" group-title="myTVSUPER" [Channel 205], ROCK Action (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -203,7 +203,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CRTX
 
 #EXTINF:-1 tvg-id="PopC" tvg-name="Popc" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/PopC.png" group-title="myTVSUPER" [Channel 206], PopC
-http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-name="Popc" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/PopC.png" group-title="myTVSUPER" [Channel 206], PopC (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -211,7 +211,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/POPC
 
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/KIX.png" group-title="myTVSUPER" [Channel 304], KIX
-http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/KIX.png" group-title="myTVSUPER" [Channel 304], KIX (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -219,7 +219,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CKIX
 
 #EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 402], Love Nature HD(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 402], Love Nature HD(HK) (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -245,7 +245,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/SMS
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CRTE
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/axn.png" group-title="myTVSUPER" [Channel 502], AXN
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/axn.png" group-title="myTVSUPER" [Channel 502], AXN (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -253,7 +253,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CAXN
 
 #EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Animax-HK.png" group-title="myTVSUPER" [Channel 504], Animax
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Animax-HK.png" group-title="myTVSUPER" [Channel 504], Animax (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -261,7 +261,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CANI
 
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tvN.png" group-title="myTVSUPER" [Channel 505],tvN
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tvN.png" group-title="myTVSUPER" [Channel 505],tvN (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -311,7 +311,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/CGD
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CGE
 
 #EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Dongfang_Weishi.png" group-title="myTVSUPER" [Channel 609], 東方衛視國際頻道
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Dongfang_Weishi.png" group-title="myTVSUPER" [Channel 609], 東方衛視國際頻道 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -319,7 +319,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/DTV
      
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台 (mpd)
@@ -329,7 +329,7 @@ http://125.227.210.55:39004/VideoInput/play.ts
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/PCC
 
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/phoenix-infonews-channel.png" group-title="myTVSUPER" [Channel 611], 鳳凰衛視資訊台(mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -337,7 +337,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/PIN
 
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_HK.png" group-title="myTVSUPER" [Channel 612], 鳳凰衛視香港台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_HK.png" group-title="myTVSUPER" [Channel 612], 鳳凰衛視香港台(mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -345,7 +345,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/PHK
 
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBS_.png" group-title="myTVSUPER" [Channel 702], 無線衛星新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBS_.png" group-title="myTVSUPER" [Channel 702], 無線衛星新聞台 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -353,7 +353,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CTSN
 
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CNA.png" group-title="myTVSUPER" [Channel 703], 亞洲新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CNA.png" group-title="myTVSUPER" [Channel 703], 亞洲新聞台 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -367,7 +367,7 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/CCNA
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CJAZ
 
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/France24.png" group-title="myTVSUPER" [Channel 705], France 24
-http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/France24.png" group-title="myTVSUPER" [Channel 705], France 24 (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -375,7 +375,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CF24
 
 #EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/DW.png" group-title="myTVSUPER" [Channel 706], DW
-http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/DW.png" group-title="myTVSUPER" [Channel 706], DW (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,7 +383,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/CDW1
 
 #EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK_WORLD_JAPAN.png" group-title="myTVSUPER" [Channel 707], NHK World-Japan
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK_WORLD_JAPAN.png" group-title="myTVSUPER" [Channel 707], NHK World-Japan (mpd)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -450,20 +450,20 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="tvbusa3" tvg-name="TVB Drama 翡翠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-Drama_US.png" group-title="TVB Anywhere", TVB Drama 翡翠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="tvbusa4" tvg-name="TVB News 无线新闻台(北美)" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="TVB Anywhere", TVB News 无线新闻台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="tvbusa5" tvg-name="TVB J1 翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBanywhere_TVBJ1.jpg" group-title="TVB Anywhere", TVB J1 翡翠综合台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvbusa5" tvg-name="TVB J1 翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBanywhere_TVBJ1.jpg" group-title="TVB Anywhere", TVB J1 翡翠综合台(北美)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="tvbusa5" tvg-name="TVB J1 翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBanywhere_TVBJ1.jpg" group-title="TVB Anywhere", TVB J1 翡翠综合台(北美)
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 
 #EXTINF:-1 tvg-id="tvbusa9" tvg-name="TVB Pearl Drama 明珠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Pearl_Drama.png" group-title="TVB Anywhere", TVB Pearl Drama 明珠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
@@ -494,7 +494,7 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Iqiyi.png" group-title="Astro", Astro IQIYI
-http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/astro_Quan_Jia.png" group-title="Astro",Astro QJ
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
@@ -551,13 +551,13 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 
 #EXTINF:-1  tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-5.png" group-title="新加波频道", Channel 5 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 
 #EXTINF:-1  tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-8.png" group-title="新加波频道", Channel 8 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-U.png" group-title="新加波频道", Channel U HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/national-geographic.png" group-title="其他",National Geographic
 http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
@@ -572,7 +572,7 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="NTV NEWS 24" tvg-name="NTV NEWS 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他",NTV NEWS 24
 http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
