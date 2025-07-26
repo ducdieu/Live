@@ -33,10 +33,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBNews.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBNews.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
-http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBNews.png" group-title="myTVSUPER" [Channel 83], 無線新聞台
-http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBPearl.png" group-title="myTVSUPER" [Channel 84], 明珠台
 http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
@@ -55,8 +51,6 @@ http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER" [Channel 91], 娛樂新聞台
 http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER" [Channel 91], 娛樂新聞台
-http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 
 #EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/chinese-opera-mask.png" group-title="myTVSUPER" [Channel 98], 戲曲台 (mpd)
 
@@ -76,17 +70,17 @@ http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 #EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_cantonese_flim.png" group-title="myTVSUPER" [Channel 200], 粵語片台 (mpd)
 
 
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台HK
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER", 美亞電影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER", 美亞電影台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
 
 
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="myTVSUPER" [Channel 203], 天映經典頻道(1080p)
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Celestial_Classic_Movies.png" group-title="myTVSUPER" [Channel 203], 天映經典頻道(1080p)
 http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/chinese_movie.png" group-title="myTVSUPER" [Channel 204], 中國電影頻道 (mpd)
@@ -408,19 +402,19 @@ http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
-#EXTINF:25 aktv-group="AKTV2" tvg-id="aktv2/skysportsf1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",Sky Sports F1
+#EXTINF:25 aktv-group="AKTV2" tvg-id="aktv2/skysportsf1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv" group-title="體育",Sky Sports F1
 http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
 #EXTINF:27 aktv-group="AKTV2" tvg-id="aktv2/CH-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",好萊塢電影台
 http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 
-#EXTINF:28 aktv-group="AKTV2" tvg-id="aktv2/CH-2" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",東森洋片
+#EXTINF:28 aktv-group="AKTV2" tvg-id="aktv2/CH-2" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv" group-title="台灣频道",東森洋片
 http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 
 #EXTINF:33 aktv-group="AKTV-JP" tvg-id="aktvjp/ntv" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" provider="AKTV-JP" provider-logo="" provider-type="iptv",日テレNEWS LIVE
 http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
 
-#EXTINF:34 aktv-group="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",8TV
+#EXTINF:34 aktv-group="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="Astro",8TV
 http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 
 #EXTINF:36 aktv-group="astro" tvg-id="astro/astrosportuhd" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",Astro Sport UHD
@@ -441,22 +435,22 @@ http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 #EXTINF:41 aktv-group="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",TNT SPORTS 3
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 
-#EXTINF:42 aktv-group="astro" tvg-id="astro/CH-1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",中天亚洲台
+#EXTINF:42 aktv-group="astro" tvg-id="astro/CH-1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="台灣频道",中天亚洲台
 http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 
-#EXTINF:43 aktv-group="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",KLT-靖天國際台
+#EXTINF:43 aktv-group="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="台灣频道",KLT-靖天國際台
 http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:44 aktv-group="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS
+#EXTINF:44 aktv-group="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="台灣频道",TVBS
 http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 
-#EXTINF:45 aktv-group="taiwan" tvg-id="taiwan/tvbs-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS新聞
+#EXTINF:45 aktv-group="taiwan" tvg-id="taiwan/tvbs-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="台灣频道",TVBS新聞
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 
-#EXTINF:46 aktv-group="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視
+#EXTINF:46 aktv-group="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="台灣频道",民視
 http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 
-#EXTINF:47 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
+#EXTINF:47 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="台灣频道",民視第一台
 http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 
 #EXTINF:50 aktv-group="test" tvg-id="test/test01" tvg-logo="" provider="test" provider-logo="" provider-type="iptv" group-title="體育",test01
