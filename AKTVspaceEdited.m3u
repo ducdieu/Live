@@ -4,7 +4,7 @@
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 #EXTINF:-1 tvg-id="Love-Nature-4K" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Love-Nature-4K.png" group-title="4K", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="myTVSUPER" [Channel 800], 翡翠台 4K
 
@@ -101,6 +101,10 @@ http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 402], Love Nature HD(HK)
 http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="Love-Nature-CA" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 402], Love Nature HD(CA)
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 403], Love Nature 4K(HK) (mpd)
 
@@ -201,6 +205,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="{NowTV} Now Player", ViuTV[直播]
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
+#EXTINF:-1 tvg-id="港台電視31" tvg-name="rthk31" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/rthk-tv-31-hk.png" group-title="{RTHK} 香港電台", 港台電視31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="港台電視31" tvg-name="rthk31" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/rthk-tv-31-hk.png" group-title="{RTHK} 香港電台", 港台電視31
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-id="港台電視32" tvg-name="rthk32" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/rthk-tv-32-hk.png" group-title="{RTHK} 香港電台", 港台電視32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
 #EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-name="CCTV-1  港澳版" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CCTV1-HK.png" group-title="{RTHK} 香港電台", CCTV-1  港澳版[直播]
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 
@@ -210,7 +222,7 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN English" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="{RTHK} 香港電台", CGTN English[直播]
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="tvbusa1" tvg-name="TVB1 翡翠一台(北美)" tvg-logo="", 翡翠一台(北美)
+#EXTINF:-1 tvg-id="tvbusa1" tvg-name="TVB1 翡翠一台(北美)" tvg-logo="" group-title="TVB Anywhere", 翡翠一台(北美)
 http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="tvbusa3" tvg-name="TVB Drama 翡翠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-Drama_US.png" group-title="TVB Anywhere", TVB Drama 翡翠剧集台(北美)
@@ -235,20 +247,16 @@ http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
-http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 
 #EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
-http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+
 
 #EXTINF:-1 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/celestial-movies.png" group-title="Astro", 天映頻道
 http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="Astro" , 翡翠台 (新加坡)
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="Astro" , 翡翠台 (新加坡)
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroWahLaiToi" tvg-name="TVB华丽台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_wah_lai_toi_hd.png" group-title="Astro", TVB华丽台
 
@@ -340,7 +348,7 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
 
 
-#EXTINF:-1 tvg-id="NTV NEWS 24" tvg-name="NTV NEWS 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" group-title="其他",NTV NEWS 24
+#EXTINF:-1 tvg-id="ANN NEWS" tvg-name="NTV NEWS 24" tvg-logo="" group-title="其他",ANN NEWS
 http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="Xite Hits" tvg-name="Xite Hits" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/XITE.png" group-title="其他",Xite Hits
@@ -409,28 +417,28 @@ http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 #EXTINF:28 aktv-group="AKTV2" tvg-id="aktv2/CH-2" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",東森洋片
 http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 
-#EXTINF:33 aktv-group="AKTV-JP" tvg-id="aktvjp/ntv" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv",日テレNEWS LIVE
+#EXTINF:33 aktv-group="AKTV-JP" tvg-id="aktvjp/ntv" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/0tere_news_24.png" provider="AKTV-JP" provider-logo="" provider-type="iptv",日テレNEWS LIVE
 http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
 
 #EXTINF:34 aktv-group="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",8TV
 http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 
-#EXTINF:36 aktv-group="astro" tvg-id="astro/astrosportuhd" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",Astro Sport UHD
+#EXTINF:36 aktv-group="astro" tvg-id="astro/astrosportuhd" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",Astro Sport UHD
 http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 
-#EXTINF:37 aktv-group="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 1
+#EXTINF:37 aktv-group="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",EuroSport 1
 http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
 
-#EXTINF:38 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 2
+#EXTINF:38 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",EuroSport 2
 http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 
-#EXTINF:39 aktv-group="astro" tvg-id="astro/tntsports1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 1
+#EXTINF:39 aktv-group="astro" tvg-id="astro/tntsports1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",TNT SPORTS 1
 http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
 
-#EXTINF:40 aktv-group="astro" tvg-id="astro/tntsports2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 2
+#EXTINF:40 aktv-group="astro" tvg-id="astro/tntsports2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",TNT SPORTS 2
 http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 
-#EXTINF:41 aktv-group="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 3
+#EXTINF:41 aktv-group="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="體育",TNT SPORTS 3
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 
 #EXTINF:42 aktv-group="astro" tvg-id="astro/CH-1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",中天亚洲台
@@ -451,5 +459,5 @@ http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 #EXTINF:47 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
 http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 
-#EXTINF:50 aktv-group="test" tvg-id="test/test01" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",test01
+#EXTINF:50 aktv-group="test" tvg-id="test/test01" tvg-logo="" provider="test" provider-logo="" provider-type="iptv" group-title="體育",test01
 http://s1.an94tv.cfd/test/test01/AKTV.m3u8
