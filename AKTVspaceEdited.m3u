@@ -3,21 +3,6 @@
 #EXTINF:-1 tvg-id="Loupe-4k" tvg-name="Loupe 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Loupe.png" group-title="4K", Loupe 4K 艺术
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-#EXTINF:-1 tvg-id="Love-Nature-4K" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Love-Nature-4K.png" group-title="4K", Love Nature 4K
-
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="myTVSUPER" [Channel 800], 翡翠台 4K
-
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super.png" group-title="myTVSUPER" [Channel 1], myTV SUPER FREE (mpd)
-
-
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mytv_Super_18.png" group-title="myTVSUPER" [Channel 18], myTV SUPER 18台
-
-
-#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="28 AI 智慧賽馬" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/28AI.png" group-title="myTVSUPER" [Channel 28], 28 AI 智慧賽馬
-
-
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/goldenTVB.png" group-title="myTVSUPER" [Channel 80], 黃金翡翠台
 http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
 
@@ -37,38 +22,8 @@ http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBPearl.png" group-title="myTVSUPER" [Channel 84], 明珠台
 http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="myTVSUPER" [Channel 86], 千禧經典台
-
-
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Asian_Select.png" group-title="myTVSUPER" [Channel 87], 亞洲劇台 (mpd)
-
-
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Chinese_Drama.png" group-title="myTVSUPER" [Channel 89], 華語劇台 (mpd)
-
-
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/golden_chinese_drama.png" group-title="myTVSUPER" [Channel 90], 黃金華劇台 (mpd)
-
-
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_EN.png" group-title="myTVSUPER" [Channel 91], 娛樂新聞台
 http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/chinese-opera-mask.png" group-title="myTVSUPER" [Channel 98], 戲曲台 (mpd)
-
-
-#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="myTVSUPER" [Channel 100], SUPER Kids Channel (mpd)
-
-
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ZooMoo.png" group-title="myTVSUPER" [Channel 101], ZooMoo
-
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Nickelodeon.png" group-title="myTVSUPER" [Channel 104], Nickelodeon
-
-
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/nick_jr.png" group-title="myTVSUPER" [Channel 105], Nick Jr.
-
-
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_cantonese_flim.png" group-title="myTVSUPER" [Channel 200], 粵語片台 (mpd)
-
 
 #EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER" [Channel 201], 美亞電影台HK
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
@@ -77,13 +32,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MeiAhMovieChannel-HK.png" group-title="myTVSUPER", 美亞電影台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Thrill.png" group-title="myTVSUPER" [Channel 202], Thrill
-
-
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Celestial_Classic_Movies.png" group-title="myTVSUPER" [Channel 203], 天映經典頻道(1080p)
 http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/chinese_movie.png" group-title="myTVSUPER" [Channel 204], 中國電影頻道 (mpd)
 
 #EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Rock_Action.png" group-title="myTVSUPER" [Channel 205], ROCK Action
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
@@ -91,23 +41,11 @@ http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-name="Popc" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/PopC.png" group-title="myTVSUPER" [Channel 206], PopC
 http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/KIX.png" group-title="myTVSUPER" [Channel 304], KIX
-
 #EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 402], Love Nature HD(HK)
 http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="Love-Nature-CA" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 402], Love Nature HD(CA)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/love_nature.png" group-title="myTVSUPER" [Channel 403], Love Nature 4K(HK) (mpd)
-
-
-#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Global-Trekker-HK.png" group-title="myTVSUPER" [Channel 407], Global Trekker (mpd)
-
-
-#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ROCK_Entertainment.png" group-title="myTVSUPER" [Channel 501], ROCK 綜藝娛樂 (mpd)
-
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/axn.png" group-title="myTVSUPER" [Channel 502], AXN
 http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
@@ -117,30 +55,6 @@ http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tvN.png" group-title="myTVSUPER" [Channel 505],tvN
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="myTVSUPER" [Channel 601], 無線衛星亞洲台 (mpd)
-
-
-#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Creation-tv.png" group-title="myTVSUPER" [Channel 602], 創世電視 (mpd)
-
-
-#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/fashion_box.png" group-title="myTVSUPER" [Channel 603], FashionBox (mpd)
-
-
-#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="myTVSUPER" [Channel 604], Mezzo Live HD (mpd)
-
-
-#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="myTVSUPER" [Channel 606], 中央電視台綜合頻道 (港澳版) (mpd)
-
-
-#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="myTVSUPER" [Channel 607], CGTN (中國環球電視網)記錄頻道 (mpd)
-
-
-#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="myTVSUPER" [Channel 608], CGTN (中國環球電視網)英語頻道 (mpd)
-
-
-#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Dongfang_Weishi.png" group-title="myTVSUPER" [Channel 609], 東方衛視國際頻道
-
      
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Phoenix_Chinese_Channel_HD.png" group-title="myTVSUPER" [Channel 610], 鳳凰衛視中文台
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
@@ -157,39 +71,6 @@ http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CNA.png" group-title="myTVSUPER" [Channel 703], 亞洲新聞台
 http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="myTVSUPER" [Channel 704], 半島電視台英語頻道 (mpd)
-
-
-#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/France24.png" group-title="myTVSUPER" [Channel 705], France 24
-
-
-#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/DW.png" group-title="myTVSUPER" [Channel 706], DW
-
-
-#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK_WORLD_JAPAN.png" group-title="myTVSUPER" [Channel 707], NHK World-Japan
-
-
-#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="myTVSUPER" [Channel 708], Arirang TV (mpd)
-
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png" group-title="myTVSUPER" [Channel 902], myTV SUPER 直播足球3台 (mpd)
-
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png" group-title="myTVSUPER" [Channel 903], myTV SUPER 直播足球4台 (mpd)
-
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png" group-title="myTVSUPER" [Channel 904], myTV SUPER 直播足球5台 (mpd)
-
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png" group-title="myTVSUPER" [Channel 905], myTV SUPER 直播足球6台 (mpd)
-
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTVSUPER" [Channel ], 互動窗 1 (mpd)
-
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTVSUPER" [Channel ], 互動窗 2 (mpd)
-
 
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/HOY_77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -222,9 +103,6 @@ http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvbusa3" tvg-name="TVB Drama 翡翠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-Drama_US.png" group-title="TVB Anywhere", TVB Drama 翡翠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="tvbusa4" tvg-name="TVB News 无线新闻台(北美)" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="TVB Anywhere", TVB News 无线新闻台(北美)
-
-
 #EXTINF:-1 tvg-id="tvbusa5" tvg-name="TVB J1 翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBanywhere_TVBJ1.jpg" group-title="TVB Anywhere", TVB J1 翡翠综合台(北美)
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvbusa5" tvg-name="TVB J1 翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVBanywhere_TVBJ1.jpg" group-title="TVB Anywhere", TVB J1 翡翠综合台(北美)
@@ -243,16 +121,8 @@ http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Xing_He.png" group-title="TVB Anywhere", TVB 星河台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 
-#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB-kungfu.png" group-title="TVB Anywhere", TVB功夫台
-
-
 #EXTINF:-1 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/celestial-movies.png" group-title="Astro", 天映頻道
 http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB.png" group-title="Astro" , 翡翠台 (新加坡)
-
-
-#EXTINF:-1 tvg-id="AstroWahLaiToi" tvg-name="TVB华丽台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_wah_lai_toi_hd.png" group-title="Astro", TVB华丽台
 
 #EXTINF:-1 tvg-id="AstroWahLaiToi" tvg-name="TVB华丽台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_wah_lai_toi_hd.png" group-title="Astro", TVB华丽台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -262,61 +132,14 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TVB_Classic_International.png" group-title="Astro" , 千禧經典台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 
-#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Iqiyi.png" group-title="Astro", Astro IQIYI
-
-
-#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/astro_Quan_Jia.png" group-title="Astro",Astro QJ
-
-
-#EXTINF:-1 tvg-id="Astro 欢喜台" tvg-name="Astro 欢喜台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Astro_Hua_Hee_Dai.png" group-title="Astro",Astro 欢喜台
-
-
 #EXTINF:-1 tvg-id="中天新聞台 " tvg-name="中天新聞台 " tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cti-news.png" group-title="台灣频道",中天新聞台 
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="寰宇新聞台 " tvg-name="寰宇新聞台 " tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Global%20News.png" group-title="台灣频道",寰宇新聞台
-
 
 #EXTINF:-1 tvg-id="東森新聞 " tvg-name="東森新聞 " tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/EBC-new.png" group-title="台灣频道",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/SET-News.png" group-title="台灣频道",三立新聞iNEWS
-
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CTV.png" group-title="台灣频道",中視
-
-
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ctv-news-live.png" group-title="台灣频道",中視新聞
-
-
-#EXTINF:-1 tvg-id="倪珍英語新聞" tvg-name="倪珍英語新聞" tvg-logo="" group-title="台灣频道",倪珍英語新聞
-
-
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ttv.png" group-title="台灣频道",台視
-
-
-#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ttv_news.png" group-title="台灣频道",台視新聞
-
-
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/CTS.png" group-title="台灣频道",華視
-
-
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/LTV_ouxiang.png" group-title="台灣频道",龍華偶像台
-
-
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/LTV_Japan_Korea.png" group-title="台灣频道",龍華日韓台
 http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/LTV_Classic.png" group-title="台灣频道",龍華經典台
-
-
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/LTV_movie.png" group-title="台灣频道",龍華電影台
-
-
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/ELTV_English.png" group-title="台灣频道",ELTV生活英語台
-
-
-#EXTINF:-1 tvg-id="Mediacorp Entertainment Chinese" tvg-name="Mediacorp Entertainment Chinese" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Mediacorp.png" group-title="新加波频道",Mediacorp Entertainment Chinese
-
 
 #EXTINF:-1  tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-5.png" group-title="新加波频道", Channel 5 HD
 http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
@@ -327,29 +150,11 @@ http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/mediacorp-channel-U.png" group-title="新加波频道", Channel U HD
 http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/national-geographic.png" group-title="其他",National Geographic
-
-
-#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cinema-world.png" group-title="其他",CINEMAWORLD
-
-
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/TV9.png" group-title="其他",TV9
-
-
 #EXTINF:-1  tvg-id="香港_C+" tvg-name="香港_C+" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/cplus.png" group-title="其他", 香港_C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 tvg-id="NHK東京総合" tvg-name="NHK東京総合" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NHK-G.png" group-title="其他",  NHK東京総合
-
-
 #EXTINF:-1 tvg-id="ANN NEWS" tvg-name="NTV NEWS 24" tvg-logo="" group-title="其他",ANN NEWS
 http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="Xite Hits" tvg-name="Xite Hits" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/XITE.png" group-title="其他",Xite Hits
-
-
-#EXTINF:-1 tvg-id="Xite Rock" tvg-name="Xite Rock" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/xite_rock.png" group-title="其他",Xite Rock
-
 
 #EXTINF:-1 tvg-id="朝鮮恩情台" tvg-name="朝鮮恩情台" tvg-logo="" group-title="其他",朝鮮恩情台
 http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
@@ -364,35 +169,6 @@ http://cdn2.132.us.kg/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/weilaitiyu.png" group-title="體育",緯來體育
 http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/bein_sports_xtra.png" group-title="體育",beIN SPORTS XTRA
-
-
-#EXTINF:-1 tvg-id="PAC12" tvg-name="PAC12" tvg-logo="" group-title="體育",PAC12
-
-
-#EXTINF:-1 tvg-id="Tennis Channel DE" tvg-name="Tennis Channel DE" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tennis_channel.png" group-title="體育",Tennis Channel DE
-
-
-#EXTINF:-1 tvg-id="Tennis Channel 2 US" tvg-name="Tennis Channel 2 US" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tennis_channel_2.png" group-title="體育",Tennis Channel 2 US
-
-
-#EXTINF:-1 tvg-id="Tennis Channel US" tvg-name="Tennis Channel US" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/tennis_channel.png" group-title="體育",Tennis Channel US
-
-#EXTINF:-1 tvg-id="FIGHT SPORTS" tvg-name="FIGHT SPORTS" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/fight_sports.png" group-title="體育",FIGHT SPORTS
-
-
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/NBA_TV.png" group-title="體育",NBA TV
-
-
-#EXTINF:-1 tvg-id="Sukan" tvg-name="Sukan" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/Sukan_RTM.png" group-title="體育",Sukan
-
-
-#EXTINF:-1 tvg-id="Unifi Sport" tvg-name="Unifi Sport" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/UnifiSports.png" group-title="體育",Unifi Sport
-
-
-#EXTINF:-1 tvg-id="曼聯電視頻道" tvg-name="曼聯電視頻道" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/MUTV.png" group-title="體育",曼聯電視頻道
-
-
 #EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/astro_football.png" group-title="體育",Astro Football
 http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
 
@@ -400,7 +176,6 @@ http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ducdieu/Live/refs/heads/main/channel_logo/guangdongzhujiang.png" group-title="广东", 广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-
 
 #EXTINF:25 aktv-group="AKTV2" tvg-id="aktv2/skysportsf1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv" group-title="體育",Sky Sports F1
 http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
